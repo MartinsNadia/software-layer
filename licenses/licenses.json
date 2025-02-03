@@ -1,6 +1,6 @@
 {
     "EasyBuild": {
-        "spdx": "GPL-2.0-only",
+        "spdx": "GPL-3.0-only",
         "license_url": "https://easybuild.io"
     },
     "GCCcore": {
